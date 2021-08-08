@@ -1,0 +1,108 @@
+{
+  'content_type': 'text',
+  'id': 15,
+  'message_id': 15,
+  'from_user': {
+    'id': 885947803,
+    'is_bot': false,
+    'first_name': 'Mufazzalshokh',
+    'username': 'vodoley01',
+    'last_name': null,
+    'language_code': 'ru',
+    'can_join_groups': null,
+    'can_read_all_group_messages': null,
+    'supports_inline_queries': null
+  },
+  'date': 1624704995,
+  'chat': {
+    'id': 885947803,
+    'type': 'private',
+    'title': null,
+    'username': 'vodoley01',
+    'first_name': 'Mufazzalshokh',
+    'last_name': null,
+    'photo': null,
+    'bio': null,
+    'description': null,
+    'invite_link': null,
+    'pinned_message': null,
+    'permissions': null,
+    'slow_mode_delay': null,
+    'sticker_set_name': null,
+    'can_set_sticker_set': null,
+    'linked_chat_id': null,
+    'location': null
+  },
+  'forward_from': null,
+  'forward_from_chat': null,
+  'forward_from_message_id': null,
+  'forward_signature': null,
+  'forward_sender_name': null,
+  'forward_date': null,
+  'reply_to_message': null,
+  'edit_date': null,
+  'media_group_id': null,
+  'author_signature': null,
+  'text': '/start',
+  'entities': [
+    <telebot.types.MessageEntity
+    object
+    at
+    0x7f8656dc3340>
+  ],
+  'caption_entities': null,
+  'audio': null,
+  'document': null,
+  'photo': null,
+  'sticker': null,
+  'video': null,
+  'video_note': null,
+  'voice': null,
+  'caption': null,
+  'contact': null,
+  'location': null,
+  'venue': null,
+  'animation': null,
+  'dice': null,
+  'new_chat_member': null,
+  'new_chat_members': null,
+  'left_chat_member': null,
+  'new_chat_title': null,
+  'new_chat_photo': null,
+  'delete_chat_photo': null,
+  'group_chat_created': null,
+  'supergroup_chat_created': null,
+  'channel_chat_created': null,
+  'migrate_to_chat_id': null,
+  'migrate_from_chat_id': null,
+  'pinned_message': null,
+  'invoice': null,
+  'successful_payment': null,
+  'connected_website': null,
+  'reply_markup': null,
+  'json': {
+    'message_id': 15,
+    'from': {
+      'id': 885947803,
+      'is_bot': false,
+      'first_name': 'Mufazzalshokh',
+      'username': 'vodoley01',
+      'language_code': 'ru'
+    },
+    'chat': {
+      'id': 885947803,
+      'first_name': 'Mufazzalshokh',
+      'username': 'vodoley01',
+      'type': 'private'
+    },
+    'date': 1624704995,
+    'text': '/start',
+    'entities': [
+      {
+        'offset': 0,
+        'length': 6,
+        'type': 'bot_command'
+      }
+    ]
+  }
+}
